@@ -12,7 +12,7 @@
 
 <main>
     <h1>Employee List</h1>
-        <div class="col-sm">
+        <div class="table-responsive col-sm">
             <!-- displays all employees -->
             <table>
                 <tr>
