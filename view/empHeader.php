@@ -47,6 +47,9 @@
 			text-decoration: underline;
 			color: #0056B3;
 		}
+		h1 {
+			padding-left:5px;
+		}
 	</style>
 </head>
 
