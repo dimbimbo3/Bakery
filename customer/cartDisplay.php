@@ -13,7 +13,7 @@
 <main>
     <h1>Cart</h1>
 
-    <div class="row">
+    <div class="row container-fluid">
         <div class="col-xl">
             <table>
                 <tr>

@@ -6,7 +6,7 @@
     <h1>Account Settings</h1>
 
     <!--Displays account options-->
-    <div class="row">
+    <div class="row container-fluid">
         <div class="col-sm-3">
             <h2>Options</h2>
             <nav>
@@ -27,7 +27,7 @@
             </nav>
         </div>
         <!-- displays all of the customer's orders -->
-        <div class="col-sm">
+        <div class="col-md">
             <h1>Order History</h1>
             <table>
                 <tr>

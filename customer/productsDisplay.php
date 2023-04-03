@@ -5,7 +5,7 @@
 <main>
     <h1>Product Inventory</h1>
 
-    <div class="row">
+    <div class="row container-fluid">
         <div class="col-sm-3">
         <!-- lists all categories -->
             <h2>Categories</h2>
@@ -21,7 +21,7 @@
                 </ul>
             </nav>
         </div>
-        <div class="col-sm">
+        <div class="col-md">
             <form action="products.php" method="post">
                 <b>Find Product:</b><br/>
                 <input type="hidden" name="action" value="search">

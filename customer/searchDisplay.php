@@ -5,7 +5,7 @@
 <main>
     <h1>Product Inventory</h1>
 
-    <div class="row">
+    <div class="row container-fluid">
         <div class="col-sm">
             <!-- displays found products -->
             <h2><?php echo "Results for '$searchTerm'"; ?></h2>
